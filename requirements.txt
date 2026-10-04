@@ -1,0 +1,8 @@
+anthropic>=1.0
+pypdfium2>=4.30
+pillow>=10.0
+requests>=2.31
+streamlit>=1.38
+python-dotenv>=1.0
+# Optional, only for the offline Tesseract engine (also needs the Tesseract binary + "ara" language data)
+pytesseract>=0.3.10
