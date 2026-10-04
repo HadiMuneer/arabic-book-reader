@@ -23,7 +23,7 @@ OCR results are cached in `cache/`, so re-running the same pages costs nothing.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<you>/arabic-book-reader.git
+git clone https://github.com/HadiMuneer/arabic-book-reader.git
 cd arabic-book-reader
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
